@@ -1,5 +1,4 @@
-## Hi there, I'm Jérémy 👋
-
+![github-header-image (1)](https://github.com/user-attachments/assets/70daadaf-cef6-4fc9-b7b6-dee086240779)
 
 As a passionate front-end developer, I thrive in an environment where my passion for development comes into its own. My commitment to technical excellence is reflected in each of my projects, translating into a focus on best practices, guaranteeing robust and sustainable solutions.
 
