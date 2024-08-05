@@ -2,7 +2,7 @@
 
 As a passionate front-end developer, I thrive in an environment where my passion for development comes into its own. My commitment to technical excellence is reflected in each of my projects, translating into a focus on best practices, guaranteeing robust and sustainable solutions.
 
-In the near future, my ambition is to move into backend development, seeking new challenges and opportunities to broaden my technical skills.
+In the near future, my ambition is to improve my skills in backend development, seeking new challenges and opportunities to broaden my technical skills.
 
 ✨ Let's code the future together! ✨
 
