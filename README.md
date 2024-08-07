@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thonon-747556230/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 # 💻 Tech Stack:
