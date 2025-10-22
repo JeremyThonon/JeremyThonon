@@ -9,7 +9,6 @@ As a passionate front-end developer, I thrive in an environment where my passion
 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thonon-747556230/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JeremyThonon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeremyThonon&theme=tokyonight&hide_border=false)<br/>
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyThonon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
